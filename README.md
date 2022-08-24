@@ -2,20 +2,20 @@
 
 Programs that I developed in Haskell in order to have contact and practice with a logical language. You can check them out below:
 
-1. Adjacent
-2. Bigger
-3. Increments
-4. InsertEnd
-5. Last
-6. Linearize
-7. Mean
-8. Nelements
-9. Order
-10. Polynome
-11. Remove
-12. Reverse
-13. Shift
-14. ShiftN
+1. [Adjacent](https://github.com/Francis1408/Prolog_Programs/tree/main/Adjacent)
+2. [Bigger](https://github.com/Francis1408/Prolog_Programs/tree/main/Bigger)
+3. [Increments](https://github.com/Francis1408/Prolog_Programs/tree/main/Increments)
+4. [InsertEnd](https://github.com/Francis1408/Prolog_Programs/tree/main/InsertEnd)
+5. [Last](https://github.com/Francis1408/Prolog_Programs/tree/main/Adjacent)
+6. [Linearize](https://github.com/Francis1408/Prolog_Programs/tree/main/Linearize)
+7. [Mean](https://github.com/Francis1408/Prolog_Programs/tree/main/Mean)
+8. [Nelements](https://github.com/Francis1408/Prolog_Programs/tree/main/Adjacent)
+9. [Order](https://github.com/Francis1408/Prolog_Programs/tree/main/Order)
+10. [Polynome](https://github.com/Francis1408/Prolog_Programs/tree/main/Polynome)
+11. [Remove](https://github.com/Francis1408/Prolog_Programs/tree/main/Remove)
+12. [Reverse](https://github.com/Francis1408/Prolog_Programs/tree/main/Reverse)
+13. [Shift](https://github.com/Francis1408/Prolog_Programs/tree/main/Shift)
+14. [ShiftN](https://github.com/Francis1408/Prolog_Programs/tree/main/ShiftN)
 
 #### How to run
 
